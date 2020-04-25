@@ -1,0 +1,4 @@
+edu\udacity\java\nano\pages\LoginPage.class
+edu\udacity\java\nano\pages\ChatPage.class
+edu\udacity\java\nano\pages\AbstractPage.class
+edu\udacity\java\nano\WebSocketChatApplicationTests.class
