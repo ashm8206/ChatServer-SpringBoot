@@ -5,6 +5,6 @@ spring:
 logging:
   level:
     ROOT: INFO
-server:
-  port=${PORT:8080}:
-#webSocketUrl: ws://localhost:8080/chat
+#server:
+#port=${PORT:8080}:
+webSocketUrl: ws://localhost:8080/chat
