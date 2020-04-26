@@ -16,8 +16,8 @@ class in chat module. All there basic actions covered are.
 ### Video Demo
 Click below Image to see the Live Demo!!
 
+[![Chat Server live Demo](http://img.youtube.com/vi/bf38KMRiZuk/0.jpg)](http://www.youtube.com/watch?v=bf38KMRiZuk "Chat Server Demo")
 
-[![Chat Server Application Demo](http://img.youtube.com/vi/bf38KMRiZuk/0.jpg)](http://www.youtube.com/watch?v=bf38KMRiZuk "Chat Server")
 
 ### Run the application with command
 mvn build; mvn spring-boot:run
